@@ -143,7 +143,7 @@ class _HomeState extends State<Home> {
                       children: [
                         Icon(Icons.phone),
                         Icon(Icons.message),
-                        Icon(Icons.safari),
+                        Icon(Icons.web),
                         Icon(Icons.music_note),
                       ],
                     ),
